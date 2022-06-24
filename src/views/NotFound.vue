@@ -7,20 +7,19 @@
         <h1 class="text-9xl font-bold text-purple-400">404</h1>
         <h1 class="text-6xl font-medium py-8">oops! Page not found</h1>
         <p class="text-2xl pb-8 px-12 font-medium">
-          Oops! The page you are looking for does not exist. It might have been
-          moved or deleted.
+          صفحه ای که دنبالش هستی وجود ندارد یا پاک شده است
         </p>
         <router-link
           to="/dashboard"
           class="bg-gradient-to-r from-purple-400 to-blue-500 hover:from-pink-500 hover:to-orange-500 text-white font-semibold px-6 py-2 rounded-md mr-6"
         >
-          HOME
+          خانه
         </router-link>
         <router-link
           to="/"
           class="bg-gradient-to-r from-red-400 to-red-500 hover:from-red-500 hover:to-red-500 text-white font-semibold px-6 py-2 rounded-md"
         >
-          Contact Us
+          ارتباط با ما
         </router-link>
       </div>
     </div>

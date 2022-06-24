@@ -14,7 +14,7 @@
             <div
               class="flex items-center justify-between px-5 py-3 text-gray-700 border-b"
             >
-              <h3 class="text-sm">Add Category</h3>
+              <h3 class="text-sm">اضافه کردن دسته بندی</h3>
               <button>
                 <svg
                   class="w-4 h-4"
@@ -33,7 +33,7 @@
             </div>
 
             <div class="px-5 py-6 text-gray-700 bg-gray-200 border-b">
-              <label class="text-xs">Name</label>
+              <label class="text-xs">نام</label>
 
               <div class="relative mt-2 rounded-md shadow-sm">
                 <span
@@ -65,12 +65,12 @@
               <button
                 class="px-3 py-1 text-sm text-gray-700 bg-gray-200 rounded-md hover:bg-gray-300 focus:outline-none"
               >
-                Cancel
+                خروج
               </button>
               <button
                 class="px-3 py-1 text-sm text-white bg-indigo-600 rounded-md hover:bg-indigo-500 focus:outline-none"
               >
-                Save
+                ذخیره کردن
               </button>
             </div>
           </form>
@@ -79,7 +79,7 @@
     </div>
 
     <div class="mt-8">
-      <h4 class="text-gray-600">Forms</h4>
+      <h4 class="text-gray-600">فرم ها</h4>
 
       <div class="mt-4">
         <div class="p-6 bg-white rounded-md shadow-md">
@@ -120,7 +120,7 @@
 
               <div>
                 <label class="text-gray-700" for="passwordConfirmation"
-                  >Password Confirmation</label
+                  >تایید پسورد</label
                 >
                 <input
                   class="w-full mt-2 border-gray-200 rounded-md focus:border-indigo-600 focus:ring focus:ring-opacity-40 focus:ring-indigo-500"
@@ -134,7 +134,7 @@
               <button
                 class="px-4 py-2 text-gray-200 bg-gray-800 rounded-md hover:bg-gray-700 focus:outline-none focus:bg-gray-700"
               >
-                Save
+                ذخیره کردن
               </button>
             </div>
           </form>

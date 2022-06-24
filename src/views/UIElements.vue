@@ -5,7 +5,7 @@
 
     <!-- Alerts -->
     <div class="mt-4">
-      <h4 class="text-gray-600">Alerts</h4>
+      <h4 class="text-gray-600">هشدار ها</h4>
 
       <div class="mt-4">
         <div
@@ -28,9 +28,9 @@
 
             <div class="px-4 py-2 -mx-3">
               <div class="mx-3">
-                <span class="font-semibold text-green-500">Success</span>
+                <span class="font-semibold text-green-500">موفقیت</span>
                 <p class="text-sm text-gray-600">
-                  Your account was registered!
+                  اکانت شما ثبت نام شد!
                 </p>
               </div>
             </div>
@@ -53,9 +53,9 @@
 
             <div class="px-4 py-2 -mx-3">
               <div class="mx-3">
-                <span class="font-semibold text-blue-500">Info</span>
+                <span class="font-semibold text-blue-500">اطلاعات</span>
                 <p class="text-sm text-gray-600">
-                  Channel archived by the owner.
+                  توسط دارنده ارشیو شده است.
                 </p>
               </div>
             </div>
@@ -78,8 +78,8 @@
 
             <div class="px-4 py-2 -mx-3">
               <div class="mx-3">
-                <span class="font-semibold text-yellow-500">Warning</span>
-                <p class="text-sm text-gray-600">Image size is too large.</p>
+                <span class="font-semibold text-yellow-500">هشدار ها</span>
+                <p class="text-sm text-gray-600">اندازه عکس زیادی بزرگ است</p>
               </div>
             </div>
           </div>
@@ -101,8 +101,8 @@
 
             <div class="px-4 py-2 -mx-3">
               <div class="mx-3">
-                <span class="font-semibold text-red-500">Error</span>
-                <p class="text-sm text-gray-600">Your email is already used!</p>
+                <span class="font-semibold text-red-500">ارور</span>
+                <p class="text-sm text-gray-600">ایمیل از قبل استفاده شده است</p>
               </div>
             </div>
           </div>
@@ -112,7 +112,7 @@
 
     <!-- Inputs -->
     <div class="mt-8">
-      <h4 class="text-gray-600">Inputs</h4>
+      <h4 class="text-gray-600">ورودی ها</h4>
 
       <div class="mt-4">
         <div
@@ -123,7 +123,7 @@
               type="radio"
               class="w-5 h-5 text-indigo-600 focus:ring-indigo-500"
               name="radio"
-            /><span class="ml-2 text-gray-700">Radio</span>
+            /><span class="ml-2 text-gray-700">رادیو</span>
           </label>
 
           <label>
@@ -131,7 +131,7 @@
               type="checkbox"
               class="w-5 h-5 text-indigo-600 rounded-md focus:ring-indigo-500"
               name="radio"
-            /><span class="ml-2 text-gray-700">Checkbox</span>
+            /><span class="ml-2 text-gray-700">چک باکس</span>
           </label>
 
           <label class="block">
@@ -171,7 +171,7 @@
 
     <!-- Buttons -->
     <div class="mt-8">
-      <h4 class="text-gray-600">Buttons</h4>
+      <h4 class="text-gray-600">دکمه ها</h4>
 
       <div class="mt-4">
         <div
@@ -198,14 +198,14 @@
                 clip-rule="evenodd"
               />
             </svg>
-            <span class="mx-1">Refresh</span>
+            <span class="mx-1">رفرش</span>
           </button>
 
           <div class="flex items-center">
             <button
               class="px-4 py-2 font-medium tracking-wide text-white capitalize transition-colors duration-200 transform bg-indigo-600 rounded-md hover:bg-indigo-500 focus:outline-none focus:bg-indigo-500"
             >
-              Download
+              دانلود
             </button>
 
             <span class="border border-transparent"></span>
@@ -243,7 +243,7 @@
 
     <!-- Paginations -->
     <div class="mt-8">
-      <h4 class="text-gray-600">Paginations</h4>
+      <h4 class="text-gray-600">صفحه بندی</h4>
 
       <div class="mt-4">
         <div class="flex px-4 py-4 overflow-x-auto bg-white rounded-md">
@@ -251,7 +251,7 @@
             <a
               href="#"
               class="px-3 py-2 ml-0 leading-tight text-indigo-700 bg-white border border-r-0 border-gray-200 rounded-l hover:bg-indigo-500 hover:text-white"
-              ><span>Previous</span></a
+              ><span>قبل</span></a
             >
             <a
               href="#"
@@ -271,7 +271,7 @@
             <a
               href="#"
               class="px-3 py-2 leading-tight text-indigo-700 bg-white border border-gray-200 rounded-r hover:bg-indigo-500 hover:text-white"
-              ><span>Next</span></a
+              ><span>بعد</span></a
             >
           </div>
         </div>

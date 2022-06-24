@@ -6,7 +6,7 @@
       @click="open = true"
       class="px-6 py-2 mt-3 font-medium tracking-wide text-white bg-indigo-600 rounded-md hover:bg-indigo-500 focus:outline-none"
     >
-      Open Modal
+      باز کردن مدال
     </button>
 
     <div
@@ -43,7 +43,7 @@
         <div class="px-6 py-4 text-left modal-content">
           <!--Title-->
           <div class="flex items-center justify-between pb-3">
-            <p class="text-2xl font-bold">Modal Title</p>
+            <p class="text-2xl font-bold">عنوان مدال</p>
             <div class="z-50 cursor-pointer modal-close" @click="open = false">
               <svg
                 class="text-black fill-current"
@@ -73,13 +73,13 @@
               @click="open = false"
               class="p-3 px-6 py-3 mr-2 text-indigo-500 bg-transparent rounded-lg hover:bg-gray-100 hover:text-indigo-400 focus:outline-none"
             >
-              Close
+              بستن
             </button>
             <button
               @click="open = false"
               class="px-6 py-3 font-medium tracking-wide text-white bg-indigo-600 rounded-md hover:bg-indigo-500 focus:outline-none"
             >
-              Action
+              انجام
             </button>
           </div>
         </div>

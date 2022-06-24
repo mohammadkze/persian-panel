@@ -4,7 +4,7 @@
     <Breadcrumb breadcrumb="Tables" />
 
     <div class="mt-4">
-      <h4 class="text-gray-600">Simple Table</h4>
+      <h4 class="text-gray-600">جدول ساده</h4>
 
       <div class="mt-6">
         <div class="my-6 overflow-hidden bg-white rounded-md shadow">
@@ -14,12 +14,12 @@
                 <th
                   class="px-5 py-3 text-sm font-medium text-gray-100 uppercase bg-indigo-800"
                 >
-                  City
+                  شهر
                 </th>
                 <th
                   class="px-5 py-3 text-sm font-medium text-gray-100 uppercase bg-indigo-800"
                 >
-                  Total orders
+                  حداکثر سفارش
                 </th>
               </tr>
             </thead>
@@ -43,7 +43,7 @@
     </div>
 
     <div class="mt-8">
-      <h4 class="text-gray-600">Table with pagination</h4>
+      <h4 class="text-gray-600">جدول با صحفه بندی</h4>
 
       <div class="mt-6">
         <h2 class="text-xl font-semibold leading-tight text-gray-700">Users</h2>
@@ -78,9 +78,9 @@
               <select
                 class="block w-full h-full px-4 py-2 pr-8 leading-tight text-gray-700 bg-white border-t border-b border-r border-gray-400 rounded-r appearance-none sm:rounded-r-none sm:border-r-0 focus:outline-none focus:border-l focus:border-r focus:bg-white focus:border-gray-500"
               >
-                <option>All</option>
-                <option>Active</option>
-                <option>Inactive</option>
+                <option>همه</option>
+                <option>فعال</option>
+                <option>غیر فعال</option>
               </select>
 
               <div
@@ -128,27 +128,27 @@
                   <th
                     class="px-5 py-3 text-xs font-semibold tracking-wider text-left text-gray-600 uppercase bg-gray-100 border-b-2 border-gray-200"
                   >
-                    User
+                    کاربر
                   </th>
                   <th
                     class="px-5 py-3 text-xs font-semibold tracking-wider text-left text-gray-600 uppercase bg-gray-100 border-b-2 border-gray-200"
                   >
-                    Role
+                    نقش
                   </th>
                   <th
                     class="px-5 py-3 text-xs font-semibold tracking-wider text-left text-gray-600 uppercase bg-gray-100 border-b-2 border-gray-200"
                   >
-                    Created at
+                    تاریخ ساخت
                   </th>
                   <th
                     class="px-5 py-3 text-xs font-semibold tracking-wider text-left text-gray-600 uppercase bg-gray-100 border-b-2 border-gray-200"
                   >
-                    Status
+                    وضعیت
                   </th>
                   <th
                     class="px-5 py-3 text-xs font-semibold tracking-wider text-left text-gray-600 uppercase bg-gray-100 border-b-2 border-gray-200"
                   >
-                    Settings
+                    تنظیمات
                   </th>
                 </tr>
               </thead>
@@ -253,12 +253,12 @@
                 <button
                   class="px-4 py-2 text-sm font-semibold text-gray-800 bg-gray-300 rounded-l hover:bg-gray-400"
                 >
-                  Prev
+                  قبل
                 </button>
                 <button
                   class="px-4 py-2 text-sm font-semibold text-gray-800 bg-gray-300 rounded-r hover:bg-gray-400"
                 >
-                  Next
+                  بعد
                 </button>
               </div>
             </div>
@@ -268,7 +268,7 @@
     </div>
 
     <div class="mt-8">
-      <h4 class="text-gray-600">Wide Table</h4>
+      <h4 class="text-gray-600">جدول پهن</h4>
 
       <div class="flex flex-col mt-6">
         <div
@@ -283,22 +283,22 @@
                   <th
                     class="px-6 py-3 text-xs font-medium leading-4 tracking-wider text-left text-gray-500 uppercase bg-gray-100 border-b border-gray-200"
                   >
-                    Name
+                    نام
                   </th>
                   <th
                     class="px-6 py-3 text-xs font-medium leading-4 tracking-wider text-left text-gray-500 uppercase bg-gray-100 border-b border-gray-200"
                   >
-                    Title
+                    عنوان
                   </th>
                   <th
                     class="px-6 py-3 text-xs font-medium leading-4 tracking-wider text-left text-gray-500 uppercase bg-gray-100 border-b border-gray-200"
                   >
-                    Status
+                    وضعیت
                   </th>
                   <th
                     class="px-6 py-3 text-xs font-medium leading-4 tracking-wider text-left text-gray-500 uppercase bg-gray-100 border-b border-gray-200"
                   >
-                    Role
+                    نقش
                   </th>
                   <th
                     class="px-6 py-3 bg-gray-100 border-b border-gray-200"
