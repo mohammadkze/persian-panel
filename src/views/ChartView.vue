@@ -4,7 +4,7 @@
     <Breadcrumb breadcrumb="charts" />
 
     <div class="mt-4">
-      <h4 class="text-gray-600">Charts</h4>
+      <h4 class="text-gray-600">چارت ها</h4>
 
       <div class="mt-6">
         <div
