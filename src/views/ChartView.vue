@@ -9,12 +9,12 @@
       <div class="mt-6">
         <div
           class="
-            my-6
+            my-3
             overflow-hidden
             bg-white
             rounded-md
             shadow
-            grid grid-cols-2
+            grid grid-cols-1 sm:grid-cols-2 md:grid-cols-2
             gap-3
           "
         >
