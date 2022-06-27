@@ -18,13 +18,13 @@ const layout = computed(
 
 <style>
   @font-face {
-  font-family: "Far_Nazanin";
-    src: local("Far_Nazanin"), 
-    url('./assets/fonts/Far_Nazanin.ttf') format('truetype');
+  font-family: "FontFree-Net-ir_sans";
+    src: local("FontFree-Net-ir_sans"), 
+    url('./assets/fonts/FontsFree-Net-ir_sans.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
   };
   * {
-    font-family: "Far_Nazanin"
+    font-family: "FontFree-Net-ir_sans"
   };
 </style>
