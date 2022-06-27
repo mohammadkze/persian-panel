@@ -309,7 +309,7 @@
               <tbody class="bg-white">
                 <tr v-for="(u, index) in wideTableData" :key="index">
                   <td
-                    class="px-6 py-4 border-b border-gray-200 whitespace-nowrap"
+                    class="py-3 px-6 py-4 border-b border-gray-200 whitespace-nowrap"
                   >
                     <div class="flex items-center">
                       <div class="flex-shrink-0 w-10 h-10">
@@ -322,7 +322,7 @@
 
                       <div class="ml-4">
                         <div
-                          class="text-sm font-medium leading-5 text-gray-900"
+                          class="py-3 text-sm font-medium leading-5 text-gray-900"
                         >
                           {{ u.name }}
                         </div>
