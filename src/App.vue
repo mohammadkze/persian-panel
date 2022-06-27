@@ -18,13 +18,13 @@ const layout = computed(
 
 <style>
   @font-face {
-  font-family: "FontFree-Net-ir_sans";
-    src: local("FontFree-Net-ir_sans"), 
-    url('./assets/fonts/FontsFree-Net-ir_sans.ttf') format('truetype');
+  font-family: "Qs_Iranyekan light";
+    src: local("Qs_Iranyekan light"), 
+    url('./assets/fonts/Qs_Iranyekan light.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
   };
   * {
-    font-family: "FontFree-Net-ir_sans"
+    font-family: "Qs_Iranyekan light"
   };
 </style>

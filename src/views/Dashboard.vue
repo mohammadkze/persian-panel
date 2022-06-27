@@ -44,7 +44,7 @@
             </div>
 
             <div class="mx-5">
-              <h4 class="text-2xl font-semibold text-gray-700">8,282</h4>
+              <h4 class="text-2xl font-semibold text-gray-700">۸,۲۳۸</h4>
               <div class="text-gray-500">کاربر جدید</div>
             </div>
           </div>
@@ -77,7 +77,7 @@
             </div>
 
             <div class="mx-5">
-              <h4 class="text-2xl font-semibold text-gray-700">200,521</h4>
+              <h4 class="text-2xl font-semibold text-gray-700">۲۰۰,۵۲۱</h4>
               <div class="text-gray-500">کل سفارشات</div>
             </div>
           </div>
@@ -110,7 +110,7 @@
             </div>
 
             <div class="mx-5">
-              <h4 class="text-2xl font-semibold text-gray-700">215,542</h4>
+              <h4 class="text-2xl font-semibold text-gray-700">۲۱۵,۵۸۹</h4>
               <div class="text-gray-500">محصولات</div>
             </div>
           </div>

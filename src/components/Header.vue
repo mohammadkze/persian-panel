@@ -127,11 +127,11 @@
                 alt="avatar"
               />
               <p class="text-sm mx-2">
-                <span class="font-bold" href="#">Evan Josh</span> replied on the
+                <span class="font-bold" href="#">علی نسبی</span> جوابه
                 <span class="font-bold text-indigo-400" href="#"
-                  >Upload Image</span
+                  >اپلود عکس</span
                 >
-                artical . 2m
+                مقاله . ۱دقیقه
               </p>
             </a>
             <a
@@ -152,56 +152,8 @@
                 alt="avatar"
               />
               <p class="text-sm mx-2">
-                <span class="font-bold" href="#">Slick Net</span> start
-                following you . 45m
-              </p>
-            </a>
-            <a
-              href="#"
-              class="
-                flex
-                items-center
-                px-4
-                py-3
-                text-gray-600
-                hover:text-white hover:bg-indigo-600
-                -mx-2
-              "
-            >
-              <img
-                class="h-8 w-8 rounded-full object-cover mx-1"
-                src="https://images.unsplash.com/photo-1450297350677-623de575f31c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=334&q=80"
-                alt="avatar"
-              />
-              <p class="text-sm mx-2">
-                <span class="font-bold" href="#">Jane Doe</span> Like Your reply
-                on
-                <span class="font-bold text-indigo-400" href="#"
-                  >Test with TDD</span
-                >
-                artical . 1h
-              </p>
-            </a>
-            <a
-              href="#"
-              class="
-                flex
-                items-center
-                px-4
-                py-3
-                text-gray-600
-                hover:text-white hover:bg-indigo-600
-                -mx-2
-              "
-            >
-              <img
-                class="h-8 w-8 rounded-full object-cover mx-1"
-                src="https://images.unsplash.com/photo-1580489944761-15a19d654956?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=398&q=80"
-                alt="avatar"
-              />
-              <p class="text-sm mx-2">
-                <span class="font-bold" href="#">Abigail Bennett</span>
-                start following you . 3h
+                <span class="font-bold" href="#">حسین علیمردانی</span> شما
+                شما را فالو کرده . ۵دقیقه
               </p>
             </a>
           </div>
@@ -283,7 +235,7 @@
                   d="M16 7a4 4 0 11-8 0 4 4 0 018 0zM12 14a7 7 0 00-7 7h14a7 7 0 00-7-7z"
                 />
               </svg>
-              Profile</a
+              پروفایل</a
             >
             <a
               href="#"
@@ -315,7 +267,7 @@
                   d="M15 12a3 3 0 11-6 0 3 3 0 016 0z"
                 />
               </svg>
-              Settings</a
+              تنظیمات</a
             >
             <router-link
               to="/"
@@ -342,7 +294,7 @@
                   d="M17 16l4-4m0 0l-4-4m4 4H7m6 4v1a3 3 0 01-3 3H6a3 3 0 01-3-3V7a3 3 0 013-3h4a3 3 0 013 3v1"
                 />
               </svg>
-              Log out</router-link
+              خروج</router-link
             >
           </div>
         </transition>
